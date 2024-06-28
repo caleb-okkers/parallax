@@ -26,7 +26,7 @@ body {
     width: 100%;
     height: 100%;
     position: absolute;
-    background: url('https://github.com/caleb-okkers/parallax/blob/master/images/IMG_2711_resized.jpg?raw=true') center;
+    background: url('https://github.com/caleb-okkers/parallax/blob/master/images/IMG_2711_layer%202.png?raw=true') center;
     background-size: cover;
     transform: translateZ(-1px) scale(2);
     /* filter: blur(1px); */
